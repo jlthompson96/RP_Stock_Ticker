@@ -16,7 +16,7 @@ uh.clear()
 FONT = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 6)
 
 # Polygon.io API setup
-API_KEY = "1en3DTRZgThFI6XZleTpgT62D4wz8QUq"
+API_KEY = "POLYGON.IO API KEY"
 STOCKS = ["AAPL", "TSLA", "NVDA", "MSFT", "RKLB", "PLTR", "CRWD", "CRSP", "MRVI"]  # List of stocks
 
 # Function to fetch stock open price
